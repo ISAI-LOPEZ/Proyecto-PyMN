@@ -1,5 +1,5 @@
 # _**Programacion y Metodos Numericos**_     
-## Universidad Autonoma de Baja California                                                                         ![imagen](https://i.pinimg.com/originals/75/c2/3b/75c23b625fe6b7de526c53784ff7e261.png)
+## Universidad Autonoma de Baja California                                      
 #### _Proyecto final, contiene programas realizados durante el semestre_    
 
 * [Practica #1 _Introducción al entorno y variables de programación en lenguaje C._](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%231).
