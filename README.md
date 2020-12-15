@@ -1,4 +1,4 @@
-# _**Programacion y Metodos Numericos**_     ![imagen](https://induccionuabc.files.wordpress.com/2018/11/escudo-uabc-17-nov-2017-color.png)
+# _**Programacion y Metodos Numericos**_     ![imagen](https://i.pinimg.com/originals/75/c2/3b/75c23b625fe6b7de526c53784ff7e261.png)
 ## Universidad Autonoma de Baja California
 #### _Proyecto final, contiene programas realizados durante el semestre_
 
