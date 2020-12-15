@@ -1,6 +1,6 @@
 # _**Programacion y Metodos Numericos**_     
 ## Universidad Autonoma de Baja California                                      
-#### _Proyecto final, contiene programas realizados durante el semestre_    
+#### _Proyecto final, contiene programas realizados durante el semestre_
 
 * [Practica #1 _Introducción al entorno y variables de programación en lenguaje C._](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%231).
 * [Practica #2. _Estructuras de control condicionales simples y múltiples._](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%232)
@@ -12,3 +12,4 @@
 * [Practica #11._Métodos de ecuaciones lineales._](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%2311)
 ### Gracias por su atencion.
 ![imagen](https://cdn-images-1.medium.com/max/1600/1*_wxwNuxszA6vwQIUMbF-fw.gif)
+### Creador: Isai Simei Lopez Mora. 
