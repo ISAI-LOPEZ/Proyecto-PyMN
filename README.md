@@ -1,4 +1,4 @@
-# _Programacion y Metodos Numericos_
+# _**Programacion y Metodos Numericos**_
 ## Universidad Autonoma de Baja California
 #### _Proyecto final, contiene programas realizados durante el semestre_
 
