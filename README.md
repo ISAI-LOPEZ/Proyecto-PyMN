@@ -1,6 +1,6 @@
 # Programacion y Metodos Numericos
 # Universidad Autonoma de Baja California
-Proyecto final. 
+Proyecto final, contiene programas realizados durante el semestre
 
 * [Practica #1.](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%231).
 * [Practica #2.](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%232)
