@@ -1,6 +1,6 @@
 # Programacion y Metodos Numericos
 ## Universidad Autonoma de Baja California
-#### Proyecto final, contiene programas realizados durante el semestre
+#### _Proyecto final, contiene programas realizados durante el semestre_
 
 * [Practica #1 Introducción al entorno y variables de programación en lenguaje C.](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%231).
 * [Practica #2. Estructuras de control condicionales simples y múltiples](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%232)
