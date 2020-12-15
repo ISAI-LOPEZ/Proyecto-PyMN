@@ -12,4 +12,4 @@
 * [Practica #11._Métodos de ecuaciones lineales._](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%2311)
 ### Gracias por su atencion.
 ![imagen](https://cdn-images-1.medium.com/max/1600/1*_wxwNuxszA6vwQIUMbF-fw.gif)
-### Creador: Isai Simei Lopez Mora. 
+### _Creador: Isai Simei Lopez Mora._ 
