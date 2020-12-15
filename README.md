@@ -10,5 +10,5 @@
 * [Practica #6.Métodos de Newton-Rhapson y de la secante.](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%236)
 * [Practica #10.Derivación numérica.](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%2310)
 * [Practica #11.Métodos de ecuaciones lineales.](https://github.com/ISAI-LOPEZ/Proyecto-PyMN/tree/main/Practica%20%2311)
-![imagen](http://2.bp.blogspot.com/-QtLuEd6yh4U/TatmBaxTFAI/AAAAAAAAAA0/TV7qXufsyJw/s1600/hacker.jpg)
 ### Gracias por su atencion.
+![imagen](https://cdn-images-1.medium.com/max/1600/1*_wxwNuxszA6vwQIUMbF-fw.gif)
